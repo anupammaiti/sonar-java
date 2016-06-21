@@ -435,6 +435,7 @@ public final class CheckList {
       .add(ClassWithoutHashCodeInHashStructureCheck.class)
       .add(IgnoredOperationStatusCheck.class)
       .add(UnderscoreOnNumberCheck.class)
+      .add(DoubleBraceInitializationCheck.class)
       .build();
   }
 
